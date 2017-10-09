@@ -24,3 +24,26 @@ function attributesToPhrase(drivers) {
   }
   return arr
 }
+
+
+
+// function evenNumbers(nums) {
+//   const evens = []
+//   for (const num of nums) {
+//
+//   }
+// }
+//
+// function bookTitles(books) {
+//   const arr = []
+//   books.map(function (book) {
+//     arr.push(book.title)
+//   })
+//   return arr
+// }
+//
+// let issuesWithUpdatedApiUrl
+//
+// function changeUrl(iss) {
+//   iss.map(function )
+// }
